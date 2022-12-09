@@ -1,3 +1,5 @@
+Logan's Final Project for Programming II
+
 Install Python into Git Bash
 py -m pip install venv
 py -m venv venv
